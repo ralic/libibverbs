@@ -1,6 +1,6 @@
 [submodule "ibverbs-tests"]
-	path = ibverbs-tests
-	url = https://github.com/mellanox-hpc/ibverbs-tests
+path=ibverbs-tests
+url = https://github.com/mellanox-hpc/ibverbs-tests
 [submodule "libnl"]
-	path = libnl
-	url = https://github.com/thom311/libnl
+path=libnl
+url = https://github.com/ralic/libnl.git
